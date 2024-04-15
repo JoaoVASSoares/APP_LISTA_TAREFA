@@ -5,3 +5,6 @@
 - Utilizei o XAMPP para ter o apach, php e o MYSQL.
 - Para o layout utilizei HTML, CSS e BOOTSTRAP.
 
+## Observação
+- Utilizamos uma metodologia segura contra sql injection.
+- Além de mantermos nossa lógica em um outro arquivo seguro.
