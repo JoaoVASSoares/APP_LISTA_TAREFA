@@ -1,5 +1,7 @@
 # APP LISTA DE TAREFA 
-- App feito utilizando o xampp com apach e MYSQL.
-- Foi utilizado php, html, CSS.
+<b>Objetivo:</b> Criação de uma lista de tarefas com 3 telas, onde uma é para o cadastro, a outra é para visualizar todas e a terceira apenas para as tarefas pendentes. Possui a possibilidade de marcar como concluida a tarefa, excluir e editar.
 
-## Uma de lista de tarefa com um CRUD onde você tem a possibilidade de marca ela como concluida.
+## Tecnologias utilizados
+- Utilizei o XAMPP para ter o apach, php e o MYSQL.
+- Para o layout utilizei HTML, CSS e BOOTSTRAP.
+
